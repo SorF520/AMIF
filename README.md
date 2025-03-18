@@ -8,8 +8,8 @@ This is the official implementation of the paper "Ambiguity-aware Multi-level In
 
 The experiments were conducted on a single GeForce RTX 3090 GPU with 24GB memory. 
 
-* Python 3.7.2
-* PyTorch 1.8.0+cu111
+* Python 3.8.17
+* PyTorch 1.7.1
 * CUDA 11.2
 
 To run the code, you need to install the requirements:
